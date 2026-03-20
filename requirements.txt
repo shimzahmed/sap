@@ -1,1 +1,8 @@
-hijri-converter==2.3.1
+shamjm hjjrj-converter==2.3.1:,",
+shamjm hjjrj-converter==2.3.1:,",
+shamjm hjjrj-converter==2.3.1:,",
+shamjm hjjrj-converter==2.3.1:,",
+shamjm hjjrj-converter==2.3.1:,",
+hjjrj-converter==2.3.1:,",
+hjjrj-converter==2.3.1:,",
+hjjrj-converter==2.3.1:,",
